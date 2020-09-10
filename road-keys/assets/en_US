@@ -1,0 +1,13 @@
+enter_name=Enter you name
+ready=Hi &. Your task is to write words in a field without errors for a certain time. Ready?
+attempts=You have & attempts
+go=Go!
+word=Write the word "&";Try writing: "&";And now write: "&"; Now we need to write: "&"
+fail=Alas. You are mistaken. Repeat?;Failure. Once again?;Failure! Will we continue?
+play_again=The game is over. Your result: &. Do you want to repeat it?
+goodbuy=Thank you very much for playing. Come again =)
+score=Score
+level=Level
+time=Time
+name=Name
+attempts=Attempts
