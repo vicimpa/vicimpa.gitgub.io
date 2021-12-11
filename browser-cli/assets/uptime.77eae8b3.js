@@ -1,1 +1,0 @@
-import{g as r}from"./getEnv.28f61c54.js";var o=()=>{const{startTime:e}=r();let t=Date.now()-e,m=t%1e3,s=(t/=1e3)|0%60,l=(t/=60)|0%60,a=(t/=60)|0%24;return`System uptime: ${(t/=24)|0}d ${a}h ${l}m ${s}s ${m}ms`};export{o as default};
